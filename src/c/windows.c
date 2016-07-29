@@ -2,10 +2,7 @@ system("notepad");
 
 malloc(100000);
 
-
-
 #include <windows.h>
-
 
 Sleep(1000);
 
